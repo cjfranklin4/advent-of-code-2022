@@ -1,6 +1,5 @@
 export const calorieList = 
-`
-8417
+`8417
 8501
 5429
 2112
