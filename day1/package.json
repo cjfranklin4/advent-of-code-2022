@@ -1,0 +1,8 @@
+{
+    "name": "day1-aoc",
+    "scripts": {
+      "start": "node day1.js"
+    },
+    "type": "module",
+    "version": "0.0.0"
+  }
